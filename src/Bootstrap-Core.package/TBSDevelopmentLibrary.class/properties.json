@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/23/2014 09:51",
+	"super" : "TBSFileLibrary",
+	"category" : "Bootstrap-Core-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSDevelopmentLibrary",
+	"type" : "normal"
+}

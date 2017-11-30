@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "TorstenBergmann 2/23/2014 10:01",
+	"super" : "WAComponent",
+	"category" : "Bootstrap-Core-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"state"
+	],
+	"name" : "TBSAlerter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DiegoLont 6/2/2014 10:18",
+	"super" : "WAButtonTag",
+	"category" : "Bootstrap-Core-Canvas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSNavbarToggleButton",
+	"type" : "normal"
+}

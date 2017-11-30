@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 2/23/2014 10:01",
+	"super" : "TBSAlerter",
+	"category" : "Bootstrap-Core-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSConfirmer",
+	"type" : "normal"
+}

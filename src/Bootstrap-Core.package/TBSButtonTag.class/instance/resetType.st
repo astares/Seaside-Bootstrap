@@ -1,0 +1,4 @@
+private
+resetType
+	type := nil
+	

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAAbstractCanvasBrushTest",
+	"category" : "Bootstrap-Tests-Core-Canvas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSHolderJSTest",
+	"type" : "normal"
+}
