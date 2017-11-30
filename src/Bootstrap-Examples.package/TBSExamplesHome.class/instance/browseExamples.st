@@ -1,0 +1,4 @@
+actions
+browseExamples
+	displayIntro := false.
+ 

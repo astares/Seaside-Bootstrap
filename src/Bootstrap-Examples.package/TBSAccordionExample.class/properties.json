@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "TorstenBergmann 6/3/2015 09:25",
+	"super" : "TBSBootstrapExample",
+	"category" : "Bootstrap-Examples-Widgets-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"batcher",
+		"accordion"
+	],
+	"name" : "TBSAccordionExample",
+	"type" : "normal"
+}

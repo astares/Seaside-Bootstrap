@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 9/19/2014 09:03",
+	"super" : "TBSBootstrapExample",
+	"category" : "Bootstrap-Examples-Widgets-VerticalTabs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSVerticalTabsExample",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+Example for http://wenzhixin.net.cn/p/bootstrap-table/docs/index.html

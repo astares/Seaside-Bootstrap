@@ -1,0 +1,4 @@
+testing
+noExampleSelected
+
+	^currentExample isNil

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TBSBootstrapExample",
+	"category" : "Bootstrap-Examples-Widgets-Canvas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSOfferExample",
+	"type" : "normal"
+}

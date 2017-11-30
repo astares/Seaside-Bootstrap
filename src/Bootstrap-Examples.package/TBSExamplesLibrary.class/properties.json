@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WAFileLibrary",
+	"category" : "Bootstrap-Examples-Browser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSExamplesLibrary",
+	"type" : "normal"
+}

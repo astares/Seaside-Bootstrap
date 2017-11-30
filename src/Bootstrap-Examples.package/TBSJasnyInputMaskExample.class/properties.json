@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 8/14/2014 09:50",
+	"super" : "TBSBootstrapExample",
+	"category" : "Bootstrap-Examples-Jasny",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSJasnyInputMaskExample",
+	"type" : "normal"
+}

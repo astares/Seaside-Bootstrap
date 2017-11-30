@@ -1,0 +1,1 @@
+An example for vertical tabs (see also https://github.com/dbtek/bootstrap-vertical-tabs)

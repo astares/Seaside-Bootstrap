@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TBSBootstrapExample",
+	"category" : "Bootstrap-Examples-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"data",
+		"headerBlock",
+		"tableBlock"
+	],
+	"name" : "TBSPanelExample",
+	"type" : "normal"
+}

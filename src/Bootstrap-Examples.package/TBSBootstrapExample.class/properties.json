@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "WAComponent",
+	"category" : "Bootstrap-Examples-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSBootstrapExample",
+	"type" : "normal"
+}
