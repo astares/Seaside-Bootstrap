@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "TorstenBergmann 1/16/2014 13:38",
+	"super" : "Object",
+	"category" : "ConfigurationOfBootstrap",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"LastVersionLoad"
+	],
+	"instvars" : [
+		"project"
+	],
+	"name" : "ConfigurationOfBootstrap",
+	"type" : "normal"
+}
