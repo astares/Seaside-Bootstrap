@@ -1,0 +1,4 @@
+accessing
+selectorsToInclude
+
+	^#(bootstraptableCss bootstraptableJs)

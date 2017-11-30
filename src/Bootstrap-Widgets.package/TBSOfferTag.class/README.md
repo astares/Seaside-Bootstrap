@@ -1,0 +1,1 @@
+Defines an offer for twitter bootstrap

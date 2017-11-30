@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 9/19/2014 09:04",
+	"super" : "TBSVerticalTabsFileLibrary",
+	"category" : "Bootstrap-Widgets-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSVerticalTabsDevelopmentLibrary",
+	"type" : "normal"
+}

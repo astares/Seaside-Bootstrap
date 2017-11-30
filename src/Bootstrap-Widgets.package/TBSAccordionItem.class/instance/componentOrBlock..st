@@ -1,0 +1,3 @@
+accessing
+componentOrBlock: aComponentOrOneArgumentBlock
+	componentOrBlock := aComponentOrOneArgumentBlock

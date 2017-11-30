@@ -1,0 +1,1 @@
+A file library for vertical tabs. See https://github.com/dbtek/bootstrap-vertical-tabs

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "TorstenBergmann 6/3/2015 12:00",
+	"super" : "WACanvasWidget",
+	"category" : "Bootstrap-Widgets-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"componentOrBlock",
+		"title",
+		"isCollapsed",
+		"accordion"
+	],
+	"name" : "TBSAccordionItem",
+	"type" : "normal"
+}

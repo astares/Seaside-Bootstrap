@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 9/19/2014 10:22",
+	"super" : "WAFileMetadataLibrary",
+	"category" : "Bootstrap-Widgets-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSTableFileLibrary",
+	"type" : "normal"
+}
