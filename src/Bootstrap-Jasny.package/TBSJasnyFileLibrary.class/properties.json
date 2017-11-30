@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 8/13/2014 16:20",
+	"super" : "WAFileMetadataLibrary",
+	"category" : "Bootstrap-Jasny-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TBSJasnyFileLibrary",
+	"type" : "normal"
+}
