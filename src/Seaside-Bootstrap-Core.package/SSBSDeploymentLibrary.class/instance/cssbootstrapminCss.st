@@ -1,7 +1,7 @@
 private - uploaded metadata
-bootstrapminCss
+cssbootstrapminCss
 	^ WAFileLibraryResource
-		filepath: 'bootstrap.min.css'
+		filepath: 'css/bootstrap.min.css'
 		mimeType: (WAMimeType main: 'text' sub: 'css')
 		cacheDuration: (Duration days: 0 hours: 0 minutes: 30 seconds: 0)
-		contents: (GRDelayedSend receiver: self selector: #bootstrapminCssContent)
+		contents: (GRDelayedSend receiver: self selector: #cssbootstrapminCssContent)

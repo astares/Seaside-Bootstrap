@@ -1,4 +1,4 @@
-private - uploaded metadata
+private - uploaded metadata - maps
 popperminjsMap
 	^ WAFileLibraryResource
 		filepath: 'popper.min.js.map'

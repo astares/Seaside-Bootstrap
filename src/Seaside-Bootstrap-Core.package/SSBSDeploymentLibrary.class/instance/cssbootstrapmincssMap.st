@@ -1,7 +1,7 @@
 private - uploaded metadata - maps
-bootstrapmincssMap
+cssbootstrapmincssMap
 	^ WAFileLibraryResource
-		filepath: 'bootstrap.min.css.map'
+		filepath: 'css/bootstrap.min.css.map'
 		mimeType: (WAMimeType main: 'application' sub: 'octet-stream')
 		cacheDuration: (Duration days: 0 hours: 0 minutes: 30 seconds: 0)
-		contents: (GRDelayedSend receiver: self selector: #bootstrapmincssMapContent)
+		contents: (GRDelayedSend receiver: self selector: #cssbootstrapmincssMapContent)
