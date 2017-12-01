@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAAbstractCanvasBrushTest",
+	"category" : "Seaside-Bootstrap-Core-Tests-Canvas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SSBSDisplayHeadingTagTest",
+	"type" : "normal"
+}

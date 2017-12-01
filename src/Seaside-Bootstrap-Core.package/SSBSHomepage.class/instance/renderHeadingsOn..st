@@ -1,4 +1,4 @@
-rendering
+rendering - parts
 renderHeadingsOn: html
 		
 	1 to: 6 do: [:s |

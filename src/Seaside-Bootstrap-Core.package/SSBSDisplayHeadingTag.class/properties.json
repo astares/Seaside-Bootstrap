@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 12/1/2017 23:34",
+	"super" : "WAHeadingTag",
+	"category" : "Seaside-Bootstrap-Core-Canvas",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SSBSDisplayHeadingTag",
+	"type" : "normal"
+}
