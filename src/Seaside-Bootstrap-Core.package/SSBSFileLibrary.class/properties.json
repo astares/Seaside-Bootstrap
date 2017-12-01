@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 12/1/2017 20:08",
+	"super" : "WAFileMetadataLibrary",
+	"category" : "Seaside-Bootstrap-Core-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SSBSFileLibrary",
+	"type" : "normal"
+}

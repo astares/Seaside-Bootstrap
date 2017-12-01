@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 12/1/2017 20:46",
+	"super" : "SSBSRootComponent",
+	"category" : "Seaside-Bootstrap-Core-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SSBSHomepage",
+	"type" : "normal"
+}

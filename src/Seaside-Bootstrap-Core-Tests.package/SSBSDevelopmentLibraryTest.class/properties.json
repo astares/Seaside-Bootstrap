@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 12/1/2017 20:55",
+	"super" : "TestCase",
+	"category" : "Seaside-Bootstrap-Core-Tests-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SSBSDevelopmentLibraryTest",
+	"type" : "normal"
+}
