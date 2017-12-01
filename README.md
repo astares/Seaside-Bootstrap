@@ -1,6 +1,10 @@
 # Seaside-Bootstrap
 Bootstrap for Seaside wrapper for Pharo
 
+```Smalltalk
+Iceberg enableMetacelloIntegration: true.
+IceMetacelloPharoPlatform select.
+```
 
 ## Loading a specific version using config
 
