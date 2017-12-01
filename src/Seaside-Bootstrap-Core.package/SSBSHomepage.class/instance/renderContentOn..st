@@ -3,4 +3,6 @@ renderContentOn: html
 	self 
 		renderHeadingsOn: html;
 		renderFadedSecondaryTextOn: html;
-		renderDiplayHeadingsOn: html
+		renderDiplayHeadingsOn: html;
+		renderLeadParagraphOn: html;
+		renderInlineTextElementsOn: html

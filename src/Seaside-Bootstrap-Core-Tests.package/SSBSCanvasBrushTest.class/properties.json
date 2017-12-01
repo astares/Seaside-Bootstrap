@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "SSBSDisplayHeadingTagTest",
+	"name" : "SSBSCanvasBrushTest",
 	"type" : "normal"
 }
