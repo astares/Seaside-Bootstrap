@@ -1,3 +1,3 @@
 accessing
 selectorsToInclude
-	^ #(cssbootstrapminCss popperminJs holderminJs)
+	^ #(cssbootstrapminCss popperminJs holderminJs jsbootstrapminJs)
