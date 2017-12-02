@@ -1,5 +1,5 @@
 rendering - parts
-renderInlineTextElementsOn: html
+renderTextInlineElementsOn: html
 
 	html 
 		text: 'You can use the mark tag to ';	

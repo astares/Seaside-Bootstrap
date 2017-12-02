@@ -1,4 +1,4 @@
-tests - inline text elements
+tests - text inline elements
 testTextDeleted
 
 	self

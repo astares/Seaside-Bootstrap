@@ -5,4 +5,5 @@ renderContentOn: html
 		renderFadedSecondaryTextOn: html;
 		renderDiplayHeadingsOn: html;
 		renderLeadParagraphOn: html;
-		renderInlineTextElementsOn: html
+		renderTextInlineElementsOn: html;
+		renderTextAlignmentOn: html
