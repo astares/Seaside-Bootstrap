@@ -6,4 +6,6 @@ renderContentOn: html
 		renderDiplayHeadingsOn: html;
 		renderLeadParagraphOn: html;
 		renderTextInlineElementsOn: html;
-		renderTextAlignmentOn: html
+		renderTextAlignmentOn: html;
+		renderTextUtilitiesOn: html.
+	html break
