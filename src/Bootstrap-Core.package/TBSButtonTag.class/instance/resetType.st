@@ -1,4 +1,0 @@
-private
-resetType
-	type := nil
-	

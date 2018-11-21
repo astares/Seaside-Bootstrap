@@ -1,1 +1,0 @@
-Boostraph glyph icon

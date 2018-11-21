@@ -1,4 +1,0 @@
-testing
-noExampleSelected
-
-	^currentExample isNil

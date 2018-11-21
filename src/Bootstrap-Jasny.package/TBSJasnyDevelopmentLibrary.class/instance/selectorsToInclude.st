@@ -1,3 +1,0 @@
-accessing
-selectorsToInclude
-	^ #(cssjasnybootstrapCss jsjasnybootstrapJs)

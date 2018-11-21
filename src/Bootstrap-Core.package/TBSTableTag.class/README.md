@@ -1,1 +1,0 @@
-A Boostrap styled table

@@ -1,1 +1,0 @@
-A list group icon

@@ -1,1 +1,0 @@
-For deployment, see https://github.com/dbtek/bootstrap-vertical-tabs

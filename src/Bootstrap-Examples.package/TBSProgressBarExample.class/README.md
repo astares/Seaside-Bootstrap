@@ -1,1 +1,0 @@
-Examples for the bootstrap progress bar

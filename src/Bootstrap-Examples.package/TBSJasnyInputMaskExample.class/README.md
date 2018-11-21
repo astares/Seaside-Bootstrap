@@ -1,1 +1,0 @@
-Example for an input mask

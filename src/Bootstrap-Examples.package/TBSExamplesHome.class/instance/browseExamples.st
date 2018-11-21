@@ -1,4 +1,0 @@
-actions
-browseExamples
-	displayIntro := false.
- 

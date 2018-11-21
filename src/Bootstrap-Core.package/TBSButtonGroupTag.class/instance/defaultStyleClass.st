@@ -1,4 +1,0 @@
-accessing
-defaultStyleClass
-
-	^'btn-group'

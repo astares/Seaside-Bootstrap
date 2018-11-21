@@ -1,1 +1,0 @@
-represents a twitter bootstrap image

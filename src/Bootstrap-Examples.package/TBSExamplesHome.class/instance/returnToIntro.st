@@ -1,5 +1,0 @@
-actions
-returnToIntro
-
-	displayIntro := true.
-  

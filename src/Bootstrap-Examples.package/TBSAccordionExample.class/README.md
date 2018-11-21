@@ -1,1 +1,0 @@
-An example for an Accordion

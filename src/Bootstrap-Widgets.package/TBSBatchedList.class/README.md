@@ -1,1 +1,0 @@
-I'm a batched list that uses a sexy Twitter Bootstrap style. See WABatchedList and TBSPaginationExample for more information.

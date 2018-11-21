@@ -1,1 +1,0 @@
-Abstract superclass for Jasni file libraries

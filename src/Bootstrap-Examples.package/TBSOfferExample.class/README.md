@@ -1,1 +1,0 @@
-An example for an offer built using Bootstrap

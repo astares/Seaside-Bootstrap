@@ -1,4 +1,0 @@
-accessing
-exampleName 
-
-	^'Page header'

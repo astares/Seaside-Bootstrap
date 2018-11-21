@@ -1,1 +1,0 @@
-The BaselineOf for Seaside Bootstrap for Pharo
