@@ -10,4 +10,4 @@ version0180: spec
 			baseline: 'Bootstrap' with: [ 
 				spec 
 					className: 'BaselineOfBootstrap';
-					repository: 'github://astares/Seaside-Bootstrao:0.18.0/src' ]]
+					repository: 'github://astares/Seaside-Bootstrap:0.18.0/src' ]]
