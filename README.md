@@ -6,7 +6,7 @@ Iceberg enableMetacelloIntegration: true.
 IceMetacelloPharoPlatform select.
 ```
 
-## Loading a specific version using config
+## Loading development version using config
 
 ```Smalltalk
 Metacello new
