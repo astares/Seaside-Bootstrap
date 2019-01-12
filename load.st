@@ -1,5 +1,5 @@
 Metacello new
-      baseline:'SemanticUI';
+      baseline:'Bootstrap';
       repository: 'github://astares/Seaside-Bootstrap:master/src';
       load.
 
