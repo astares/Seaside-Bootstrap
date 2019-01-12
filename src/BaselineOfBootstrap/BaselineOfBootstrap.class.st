@@ -15,7 +15,7 @@ BaselineOfBootstrap >> baseline: spec [
 		spec preLoadDoIt: #preLoad61.
 		self 
 			seaside3: spec;
-		  	bootstrap: spec ]
+		  	bootstrap: spec ].
 	
 	spec for: #'common' do: [	
 		self 
