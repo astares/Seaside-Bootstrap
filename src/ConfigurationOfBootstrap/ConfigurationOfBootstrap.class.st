@@ -181,7 +181,7 @@ Class {
 	#classVars : [
 		'LastVersionLoad'
 	],
-	#category : 'ConfigurationOfBootstrap'
+	#category : #ConfigurationOfBootstrap
 }
 
 { #category : #'development support' }
@@ -874,7 +874,9 @@ ConfigurationOfBootstrap >> project [
 ConfigurationOfBootstrap >> stable: spec [
 	<symbolicVersion: #'stable'>
 
-	spec for: #'common' version: '0.18.0'.
+	spec for: #'pharo5.x' version: '0.18.0'.
+	spec for: #'pharo6.x' version: '0.18.0'.
+	spec for: #'common' version: 'dev'.	
 
 ]
 
