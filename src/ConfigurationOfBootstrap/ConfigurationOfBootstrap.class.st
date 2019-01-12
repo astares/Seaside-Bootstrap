@@ -315,7 +315,7 @@ ConfigurationOfBootstrap class >> validate [
 	^ ((Smalltalk at: #MetacelloToolBox) validateConfiguration: self debug: #() recurse: false) explore
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline0100: spec [ 
         <version: '0.10.0-baseline'>
         
@@ -348,7 +348,7 @@ ConfigurationOfBootstrap >> baseline0100: spec [
 			
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline010: spec [ 
         <version: '0.1.0-baseline'>
         
@@ -373,7 +373,7 @@ ConfigurationOfBootstrap >> baseline010: spec [
                      	with:   #('Bootstrap-Core' 'Bootstrap-Tests-Core' 'Bootstrap-Examples')].
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline0110: spec [
 	<version: '0.11.0-baseline'>
 
@@ -409,7 +409,7 @@ ConfigurationOfBootstrap >> baseline0110: spec [
 
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline0120: spec [
 	<version: '0.12.0-baseline'>
 
@@ -445,7 +445,7 @@ ConfigurationOfBootstrap >> baseline0120: spec [
 
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline0130: spec [
 	<version: '0.13.0-baseline'>
 
@@ -481,7 +481,7 @@ ConfigurationOfBootstrap >> baseline0130: spec [
 
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline0140: spec [
 	<version: '0.14.0-baseline'>
 
@@ -518,7 +518,7 @@ ConfigurationOfBootstrap >> baseline0140: spec [
 
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline0150: spec [
 	<version: '0.15.0-baseline'>
 
@@ -555,7 +555,7 @@ ConfigurationOfBootstrap >> baseline0150: spec [
 
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline0160: spec [
 	<version: '0.16.0-baseline'>
 
@@ -592,7 +592,7 @@ ConfigurationOfBootstrap >> baseline0160: spec [
 
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline0170: spec [
 	<version: '0.17.0-baseline'>
 
@@ -629,7 +629,7 @@ ConfigurationOfBootstrap >> baseline0170: spec [
 
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline0180: spec [
 	<version: '0.18.0-baseline'>
 
@@ -666,7 +666,7 @@ ConfigurationOfBootstrap >> baseline0180: spec [
 
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline030: spec [ 
         <version: '0.3.0-baseline'>
         
@@ -704,7 +704,7 @@ ConfigurationOfBootstrap >> baseline030: spec [
 			
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline040: spec [ 
         <version: '0.4.0-baseline'>
         
@@ -730,7 +730,7 @@ ConfigurationOfBootstrap >> baseline040: spec [
 			
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline070: spec [ 
         <version: '0.7.0-baseline'>
         
@@ -763,7 +763,7 @@ ConfigurationOfBootstrap >> baseline070: spec [
 			
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline080: spec [ 
         <version: '0.8.0-baseline'>
         
@@ -796,7 +796,7 @@ ConfigurationOfBootstrap >> baseline080: spec [
 			
 ]
 
-{ #category : #baselines }
+{ #category : #'baselines - old' }
 ConfigurationOfBootstrap >> baseline090: spec [ 
         <version: '0.9.0-baseline'>
         
@@ -837,12 +837,24 @@ ConfigurationOfBootstrap >> customProjectAttributes [
 	^ #().
 ]
 
+{ #category : #'baselines - github' }
+ConfigurationOfBootstrap >> dev: spec [
+	<version: 'dev'>
+
+	spec for: #'common' do: [ 
+		spec
+			baseline: 'Bootstrap' with: [ 
+				spec 
+					className: 'BaselineOfBootstrap';
+					repository: 'github://astares/Seaside-Bootstrap:master/src' ]]
+]
+
 { #category : #'symbolic versions' }
 ConfigurationOfBootstrap >> development: spec [
 	<symbolicVersion: #'development'>
 
 	spec for: #'common' version: '0.18.0-baseline'.
-
+	spec for: #'pharo7.x' version: 'dev'
 ]
 
 { #category : #accessing }
