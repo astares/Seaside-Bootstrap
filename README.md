@@ -28,7 +28,7 @@ If you already have a Pharo 7 or later image just proceed with the load expressi
 
 ## Installation
 
-### Loading development version using config
+### Loading latest stable version using config
 
 ```Smalltalk
 Metacello new
@@ -38,8 +38,7 @@ Metacello new
   load
 ```
 
-### Loading latest stable using baseline
-Load the stable master version using Metacello
+### Loading latest *development* version using baseline 
 
 ```Smalltalk
 Metacello new
