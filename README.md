@@ -14,7 +14,7 @@ IceMetacelloPharoPlatform select.
 
 then proceed with the load expressions given in "Installation" section.
 
-### Pharo 7
+### Pharo 7 and Pharo 8
 
 You can clone the project and run the download.sh script
 
