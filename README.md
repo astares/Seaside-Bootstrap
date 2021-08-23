@@ -1,7 +1,7 @@
 # Seaside-Bootstrap
 Bootstrap for Seaside wrapper for Pharo 
 
-**Note:** this is outdated and we only provide it for compatibility. Be aware that there are newer packages available for newer Pharo and Seaside versions, see:
+**Note:** this is outdated and we only provide it for compatibility. Be aware that there are newer packages available for newer Pharo, Bootstrap and Seaside versions, see:
 - https://github.com/astares/Seaside-Bootstrap4
 - https://github.com/astares/Seaside-Bootstrap5
 
